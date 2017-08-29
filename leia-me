@@ -1,0 +1,5 @@
+ionic cordova platform add android
+    Com o bash aberto na pasta do projeto.
+
+Se der erro 'Not Found', rodar: ionic serve
+Se necessário, dar um Play adicional no launch.json
